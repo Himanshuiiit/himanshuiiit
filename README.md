@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A learning Android developer and a enthusiastic DSA learner.</h3>
+<h3 align="center">A learning Android developer and an enthusiastic DSA learner.</h3>
 
 - 🔭 I’m currently working on **Improving my dev skills.**
 

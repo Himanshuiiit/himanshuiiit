@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A learning Android developer and an enthusiastic DSA learner.</h3>
+<h3 align="center">A learning Web developer and an enthusiastic DSA learner.</h3>
 
 - 🔭 I’m currently working on **Improving my dev skills.**
 
-- 🌱 I’m currently learning **DSA, Kotlin, JAVA(Advanced)**
+- 🌱 I’m currently learning **DSA, MERN stack, JAVA(Advanced)**
 
 - 👯 I’m looking to collaborate on **some open source contribution**
 
-- 👨‍💻 All of my projects are available at [https://himanshuiiit.github.io/portfolio/](https://himanshuiiit.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://himanshuiiit.github.io/portfolio/](https://github.com/Himanshuiiit)
 
-- 💬 Ask me about **DSA and Android dev**
+- 💬 Ask me about **DSA and Web dev**
 
 - 📫 How to reach me **hims6482@gmail.com**
 
-- ⚡ Fun fact **I was, and will be a noobie**
+- ⚡ Fun fact **I was,am and will be a noobie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

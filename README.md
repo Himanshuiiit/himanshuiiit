@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A learning Web developer and an enthusiastic DSA learner.</h3>
+<h3 align="center">A Web developer and An Enthusiastic DSA Learner.</h3>
 
 # 💫 About Me:
 Software Developer intern at The Option Box.<br>MERN stack developer.<br>Currently Learning Remix.js and Flutter.<br><br>Fun Fact : I was, am and will always be a Noob.
